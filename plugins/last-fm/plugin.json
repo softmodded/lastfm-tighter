@@ -1,0 +1,6 @@
+{
+  "name": "lastfm-addons",
+  "description": "adds lastfm stuff",
+  "author": "softmodded",
+  "main": "./src/index.js"
+}
